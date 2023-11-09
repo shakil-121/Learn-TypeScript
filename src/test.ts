@@ -1,0 +1,1 @@
+let univercity:string="ISTT"
